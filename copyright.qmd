@@ -1,0 +1,10 @@
+# {.unnumbered .unlisted}
+
+\vspace*{\fill}
+
+\begin{center}
+© 2026 Nik Danilov. All rights reserved.
+
+First digital edition, 2026. Haifa, Israel.
+\end{center}
+\newpage
