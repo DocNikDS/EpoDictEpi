@@ -2,6 +2,17 @@
 
 # B
 
+BERKSON
+-------
+
+![](image/.jpg)
+
+***Joseph Berkson*** (1899-1982) - American physician and statistician.
+
+### Berkson paradox (collider bias):
+
+Endogenous selection bias occurring in a hospital-based study where conditioning on the common effect of hospitalization (the collider) for two or more independent conditions induces a spurious negative association between them within the study sample that is absent in the general population.
+
 # C
 
 # D
