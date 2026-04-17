@@ -5,9 +5,13 @@
 BERKSON
 -------
 
-![](image/.jpg)
+![](image/berkson.jpg)
 
-***Joseph Berkson*** (1899-1982) - American physician and statistician.
+***Joseph Berkson*** (1899-1982) - American physicist, physician and statistician.
+
+### Berkson error model: 
+
+Measurement random error model arising when a single surrogate value (e.g., a group mean) is assigned to all individuals in a category, such that true individual values fluctuate randomly around this fixed observed value.
 
 ### Berkson paradox (collider bias):
 
